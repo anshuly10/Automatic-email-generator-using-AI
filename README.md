@@ -17,7 +17,8 @@ An AI-powered CLI that drafts emails using **Claude AI**, fetches files from **G
 ## Prerequisites
 
 - **Python 3.8+** — check with `python --version`
-- **Anthropic API key** — [console.anthropic.com](https://console.anthropic.com/)
+- **Ollama should be installed - check with 'ollama serve'
+- **Make sure llama library is also installed in the venv
 - **Google Cloud project** with Gmail API + Drive API enabled
 
 ---
