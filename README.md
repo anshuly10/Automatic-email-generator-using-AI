@@ -37,11 +37,6 @@ pip install -r requirements.txt
 cp .env.example .env
 ```
 
-Fill in your Anthropic API key:
-```
-ANTHROPIC_API_KEY=sk-ant-...
-```
-
 ### 3. Set up Google OAuth credentials (one-time)
 
 #### A — Create a Google Cloud project
