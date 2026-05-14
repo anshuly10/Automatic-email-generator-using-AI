@@ -114,7 +114,6 @@ gmail-ai-agent-python/
 
 | Problem | Fix |
 |---|---|
-| `ANTHROPIC_API_KEY` error | Check `.env` has the correct key |
 | `Authentication failed` | Run `python auth.py` first |
 | File not found in Drive | Check the spelling — search is a substring match |
 | `insufficient permission` | Delete `token.json` and run `python auth.py` again |
